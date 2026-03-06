@@ -148,19 +148,11 @@
 
 ### GitHub Stats & Trophies 📊
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitsinghgautam&theme=darkhub" alt="trophy" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=arpitsinghgautam&theme=darkhub)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsinghgautam&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsinghgautam&layout=compact&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitsinghgautam&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitsinghgautam&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsinghgautam&theme=dark" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitsinghgautam&theme=dark)
 
