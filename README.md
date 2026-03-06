@@ -148,11 +148,6 @@
 
 ### GitHub Stats & Trophies 📊
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=arpitsinghgautam&theme=onedark&no-frame=true&no-bg=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitsinghgautam&show_icons=true&theme=onedark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsinghgautam&layout=compact&theme=onedark)
-
-![Streak](https://streak-stats.demolab.com?user=arpitsinghgautam&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitsinghgautam&theme=dark)
 
