@@ -13,13 +13,12 @@
   <img src="https://komarev.com/ghpvc/?username=arpitsinghgautam&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsinghgautam" />
 </p>
 
-- 🔭 I’m a **Data Scientist** in the CSG CTO Lab at Dell Technologies, working on optimization, efficient inference, and scalable AI systems. [page:0]  
-- ⚙️ I build systems for **disaggregated serving, speculative decoding, and KV cache optimization** that significantly improve LLM throughput and latency over existing inference frameworks. [page:0]  
-- 🧠 My interests span **generative AI, reinforcement learning, neural architecture search, distributed serving, and reasoning-centric LLMs**. [page:0]  
-- 📚 I care about **research with real impact** – from diffusion-based fact verification and theory of mind distillation to large-scale SQL reasoning and medical imaging. [page:0]  
-- 👨‍🏫 I enjoy **mentoring and teaching**, including guiding 3300+ learners at IBM Z Datathon and mentoring hackathons and student communities. [page:0]  
-- 💬 Ask me about **LLMs, inference optimization, RAG, quantization, RL for models, and ML systems**. [page:0]  
-
+- 🔭 I’m a **Data Scientist** in the CSG CTO Lab at Dell Technologies, working on optimization, efficient inference, and scalable AI systems.
+- ⚙️ I build systems for **disaggregated serving, speculative decoding, and KV cache optimization** that significantly improve LLM throughput and latency over existing inference frameworks.   
+- 🧠 My interests span **generative AI, reinforcement learning, neural architecture search, distributed serving, and reasoning-centric LLMs**.
+- 📚 I care about **research with real impact** – from diffusion-based fact verification and theory of mind distillation to large-scale SQL reasoning and medical imaging.   
+- 👨‍🏫 I enjoy **mentoring and teaching**, including guiding 3300+ learners at IBM Z Datathon and mentoring hackathons and student communities.
+- 💬 Ask me about **LLMs, inference optimization, RAG, quantization, RL for models, and ML systems**.
 ---
 
 <h3 align="left">Research Focus:</h3>
@@ -27,15 +26,15 @@
 - Systems for **Machine Learning** and **Distributed AI**  
 - **Efficient**, hardware-aware inference and serving for large models  
 - **Reasoning-centric**, aligned large language models  
-- **Reinforcement Learning** for foundation models and quantization [page:0]  
+- **Reinforcement Learning** for foundation models and quantization   
 
 ---
 
 <h3 align="left">News & Highlights 🔥</h3>
 
-- 2025 — Paper <b>"The Energy of Falsehood"</b> submitted to <b>EACL 2026 FEVER Workshop</b>. [page:0]  
-- 2025 — Paper <b>"Faithful Theory of Mind Distillation"</b> accepted at <b>AAAI 2026 ToM Workshop</b>. [page:0]  
-- 2025 — Released <b>CogniSQL-R1-Zero</b>, a reinforced reasoning model for Text-to-SQL (via arXiv). [page:0]  
+- 2025 — Paper <b>"The Energy of Falsehood"</b> submitted to <b>EACL 2026 FEVER Workshop</b>.   
+- 2025 — Paper <b>"Faithful Theory of Mind Distillation"</b> accepted at <b>AAAI 2026 ToM Workshop</b>.   
+- 2025 — Released <b>CogniSQL-R1-Zero</b>, a reinforced reasoning model for Text-to-SQL (via arXiv).   
 
 ---
 
@@ -43,19 +42,19 @@
 
 <ul>
   <li>
-    <b>Data Scientist – CSG CTO Lab</b>, Dell Technologies (Bengaluru) — Jul 2025 – Present [page:0]<br/>
-    • Engineered a distributed inference system with disaggregated serving, speculative decoding, and KV cache quantization, achieving ~4x throughput and cutting latency from 2.5s to &lt;1s vs vLLM baselines (5+ patents in the pipeline). [page:0]<br/>
-    • Developed an RL-based quantization framework for LLM PTQ integrating neural architecture search, reaching 2.6x compression with minimal perplexity loss. [page:0]<br/>
-    • Designed diffusion-based generative stability methods for automated fact verification, improving robustness and detecting confidently incorrect claims. [page:0]<br/>
-    • Studied reasoning transfer via sequential SFT + preference refinement, improving reasoning fidelity and alignment (AAAI ToM Workshop 2026). [page:0]<br/>
-    • Currently building a Mamba-based reranker to improve robustness of RAG systems against adversarial attacks. [page:0]
+    <b>Data Scientist – CSG CTO Lab</b>, Dell Technologies (Bengaluru) — Jul 2025 – Present <br/>
+    • Engineered a distributed inference system with disaggregated serving, speculative decoding, and KV cache quantization, achieving ~4x throughput and cutting latency from 2.5s to &lt;1s vs vLLM baselines (5+ patents in the pipeline). <br/>
+    • Developed an RL-based quantization framework for LLM PTQ integrating neural architecture search, reaching 2.6x compression with minimal perplexity loss. <br/>
+    • Designed diffusion-based generative stability methods for automated fact verification, improving robustness and detecting confidently incorrect claims. <br/>
+    • Studied reasoning transfer via sequential SFT + preference refinement, improving reasoning fidelity and alignment (AAAI ToM Workshop 2026). <br/>
+    • Currently building a Mamba-based reranker to improve robustness of RAG systems against adversarial attacks. 
   </li>
   <br/>
   <li>
-    <b>Data Science Intern</b>, Dell Technologies — Jul 2024 – Jun 2025 [page:0]<br/>
-    • Built <b>CogniSQL-R1-Zero</b>, a Text-to-SQL reasoning model using GRPO and DeepSpeed on a 7B backbone across 4×A100 GPUs (released via arXiv). [page:0]<br/>
-    • Achieved SOTA execution accuracy on the BIRD benchmark, outperforming 236B+ parameter models. [page:0]<br/>
-    • Developed an agentic framework with self-healing, test-time scaling, and CoT reasoning, boosting execution accuracy by ~30% on proprietary data (Copilot now in production). [page:0]
+    <b>Data Science Intern</b>, Dell Technologies — Jul 2024 – Jun 2025 <br/>
+    • Built <b>CogniSQL-R1-Zero</b>, a Text-to-SQL reasoning model using GRPO and DeepSpeed on a 7B backbone across 4×A100 GPUs (released via arXiv). <br/>
+    • Achieved SOTA execution accuracy on the BIRD benchmark, outperforming 236B+ parameter models. <br/>
+    • Developed an agentic framework with self-healing, test-time scaling, and CoT reasoning, boosting execution accuracy by ~30% on proprietary data (Copilot now in production). 
   </li>
 </ul>
 
@@ -91,7 +90,7 @@
     <td>ICCCNT 2025 (IIT Indore)</td>
     <td><b>Enhancing Lymphoma Detection Using Multi-Layer Hybrid Neural Networks</b></td>
   </tr>
-</table> [page:0]
+</table> 
 
 ---
 
@@ -133,17 +132,17 @@
 </p>
 
 <p>
-<strong>Core Competencies:</strong> LLMs, reasoning, RAG, distributed training & serving, quantization, RL, CV, diffusion models. [page:0]
+<strong>Core Competencies:</strong> LLMs, reasoning, RAG, distributed training & serving, quantization, RL, CV, diffusion models. 
 </p>
 
 ---
 
 <h3 align="left">Hackathons & Honors 🏆</h3>
 
-- 17+ hackathons with **12 wins**, including international, national, and college-level events. [page:0]  
-- 1st Place – Dell Technologies Industry Hackathon (500+ participants, 2024). [page:0]  
-- 2× “Best Use of IBM Z” at SacHacks IV & V (UC Davis). [page:0]  
-- Multiple academic awards including Dean’s List, Student Excellence Awards, and MUJ’s “Wizard Programmer” (Gold Medal). [page:0]  
+- 17+ hackathons with **12 wins**, including international, national, and college-level events.   
+- 1st Place – Dell Technologies Industry Hackathon (500+ participants, 2024).   
+- 2× “Best Use of IBM Z” at SacHacks IV & V (UC Davis).   
+- Multiple academic awards including Dean’s List, Student Excellence Awards, and MUJ’s “Wizard Programmer” (Gold Medal).   
 
 ---
 
