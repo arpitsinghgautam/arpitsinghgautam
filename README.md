@@ -148,10 +148,19 @@
 
 ### GitHub Stats & Trophies 📊
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arpitsinghgautam&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitsinghgautam&theme=darkhub" alt="trophy" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arpitsinghgautam&show_icons=true&locale=en&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsinghgautam&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitsinghgautam&show_icons=true&locale=en&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitsinghgautam&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitsinghgautam&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsinghgautam&theme=dark" alt="GitHub Streak" />
+</p>
+
