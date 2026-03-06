@@ -146,20 +146,12 @@
 
 ---
 
-<h3 align="left">GitHub Stats & Trophies 📊</h3>
+### GitHub Stats & Trophies 📊
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitsinghgautam&theme=darkhub" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=arpitsinghgautam&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitsinghgautam&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arpitsinghgautam&show_icons=true&locale=en&layout=compact&theme=github_dark)
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitsinghgautam&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitsinghgautam&show_icons=true&locale=en&theme=github_dark)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsinghgautam&theme=dark" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitsinghgautam&theme=dark)
